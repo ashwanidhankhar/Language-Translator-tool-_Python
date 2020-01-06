@@ -1,0 +1,70 @@
+***************************************Report Language Translator************************************
+
+Project on “GUI Based Language Translator”
+
+By: Ashwani Dhankhar
+
+	B.Voc., Semester-III
+	School of Computing Skills
+	Bhartiya Skill Development University, Jaipur
+
+
+
+Introduction:	Project was to make to GUI based Language Translator in python.
+		
+
+		What is Translation?
+
+			Translation is the communication of meaning from one language (the source) to another 
+			language (the target). Translation refers to written information, whereas interpretation
+			refers to spoken information.
+
+			The purpose of translation is to convey the original tone and intent of a message,
+			taking into account cultural and regional differences between source and target languages.
+
+			Translation has been used by humans for centuries, beginning after the appearance of written 
+			literature. Modern-day translators use sophisticated tools and technologies to accomplish their work,
+			and rely heavily on software applications to simplify and streamline their tasks.
+
+			Organizations around the world, encompassing a multitude of sectors, missions, and mandates,
+			rely on translation for content as diverse as product labels, technical documentation,
+			user reviews, promotional materials, annual reports, and much, much more.
+
+
+Project Requirements:
+	
+	Operating System:				Windows 7 and Above,IOS,which supports python.
+	Hardware Requirements(CPU/GPU/RAM etc.):	Atleast 2 RAM , Minimum Intel Graphics
+	Programming Platform & Language:		Spyder or IDLE ,Python.
+	Libraries & APIs:				Numpy,Pandas,googletrans,tkinter
+
+Basic Algorithms and Techniques :
+			
+		The technique used for translation of text is, the source text is 
+		being translated by fucntions of googletrans library which thereby calls
+		an API to translate the text.
+
+		A library named TKINTER is used for the GUI of the projects which has 
+		numerous functions for designing your program window.
+
+		And some basic python techniques to make changes as per needs and for 
+		definining of functions.
+
+Key Learnings from this Project :
+
+Key Learnings from the project are - 
+								GUI Designing of window through Tkinter.
+								Using googletrans Library
+								Some Complex pyhton fundamentals.
+
+References and Web-links : 
+			
+			https://pypi.org/project/googletrans/
+			https://pypi.org/project/tk-tools/
+				stackoverflow
+				geekforgeeks
+				google
+				etc.
+
+
+*****************************************THANK_YOU***************************************************
